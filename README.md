@@ -8,4 +8,4 @@ Here you will find all the projects I have done so far during the Cursus.
 
 Everything is Public so feel free to have a look and use my code as reference for your own work!
 
-### But Please... Do not just copy and paste. Self-improvement only comes trough many tries and mistakes !                         
+## But Please... Do not just copy and paste. Self-improvement only comes trough many tries and mistakes !                         
