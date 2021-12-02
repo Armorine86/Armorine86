@@ -10,7 +10,18 @@ Everything is Public so feel free to have a look and use my code as reference fo
 
 ### But Please... Do not just copy and paste. Self-improvement only comes trough many tries and mistakes!
 
+# Currently learning:
 
-You can reach me at:  https://www.linkedin.com/in/maxime-mondello-822b93218/
+C / C++
+
+Python
+
+### Interested in learning: 
+
+Rust
+
+# You can reach me at:
+
+Linkedin: https://www.linkedin.com/in/maxime-mondello-822b93218/
 
 E-Mail:               Armorine86@gmail.com
