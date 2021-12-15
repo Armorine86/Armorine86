@@ -2,7 +2,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mmondell?cursus=C%20Cursus)](https://github.com/JaeSeoKim/badge42)
 
-## Hi! My name is Maxime and I am currently undertaking the 42 Cursus at 42 Quebec, Canada !
+## Hi! I am currently undertaking the 42 Cursus at 42 Quebec, Canada !
 
 Here you will find all the projects I have done so far during the Cursus. 
 
