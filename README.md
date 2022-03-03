@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armorine86&show_icons=true&theme=radical)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mmondell?cursus=C%20Cursus)](https://github.com/JaeSeoKim/badge42)
+[![42 Stats](https://badge42.herokuapp.com/api/stats/mmondell?cursus=C%20Cursus)](https://github.com/JaeSeoKim/badge42)
 
 ## Hi! I am currently undertaking the 42 Cursus at 42 Quebec, Canada !
 
