@@ -19,6 +19,8 @@ Rust
 ### Interested in learning: 
 
 Rust even more
+Python
+
 
 # You can reach me at:
 
