@@ -14,11 +14,11 @@ Everything is Public so feel free to have a look and use my code as reference fo
 
 C / C++
 
-Python
+Rust
 
 ### Interested in learning: 
 
-Rust
+Rust even more
 
 # You can reach me at:
 
