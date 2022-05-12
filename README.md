@@ -12,12 +12,6 @@ C / C++
 
 Rust
 
-### Interested in learning: 
-
-Rust even more
-Python
-
-
 ## Contact me:
 
 Linkedin: https://www.linkedin.com/in/maxime-mondello-822b93218/
