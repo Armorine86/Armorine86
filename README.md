@@ -16,4 +16,4 @@ Rust
 
 Linkedin: https://www.linkedin.com/in/maxime-mondello-822b93218/
 
-E-Mail:               Armorine86@gmail.com
+E-Mail:               maxime.mondello@gmail.com
