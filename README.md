@@ -2,7 +2,8 @@
 
 [![mmondell's 42 stats](https://badge42.vercel.app/api/v2/cl1mb28v7003209mtmfky9fw8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-## Hi! I am currently undertaking the 42 Cursus at 42 Quebec, Canada !
+## Hi! I am currently undertaking the 42 Cursus at 42 Quebec !
+### I am currently employed as a React Web Developper
 
 Here you will find all the projects I have done so far during the Cursus. 
 
@@ -11,6 +12,14 @@ Here you will find all the projects I have done so far during the Cursus.
 C / C++
 
 Rust
+
+Typescript
+
+React
+
+Cyber Security
+
+and many more...
 
 ## Contact me:
 
