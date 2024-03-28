@@ -1,7 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armorine86&show_icons=true&theme=radical)
-
-[![mmondell's 42 stats](https://badge42.vercel.app/api/v2/cl1mb28v7003209mtmfky9fw8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-
 ## Hi! I am currently undertaking the 42 Cursus at 42 Quebec !
 ### I am currently employed as a React Web Developper
 
